@@ -1,11 +1,12 @@
-# List of Modeled Virtual Planets - 2019/10/21 <br>
-<br>
-Models themselves and their details are documented with the format below : <br>
-<br>
-### Model Name : __Model_Name_Here__<br>
-### Model Contributors : __Contributor_1_Name_Here_AND_Contributor_2_Name_Here__<br>
-### Model Details : __Model_Details_Here__<br>
-### Model Possibility : __Possibility_Details_Here__<br>
-### Consideration for Designated Model : __Consideration_Here__<br>
-<br>
-<br>
+Write Notebook contents here
+1. 행성 모양 디자인
+깍은 정이십면모양으로 행성을 디자인 했다. 자전축은 5.5도 기울어져 있다. 주위에는 여러 소행성이 이 행성을 공전한다. 깍은 정이십면체의 부피공식과 지구의 부피공식을 사용해서 한 변의 길이가 3838km임을 구할 수 있었다. 
+
+2. 실제로 행성이 존재할 수 있을지 물리적으로 검증
+이 행성은 원래 지구와 비슷한 크기의 구형 행성이었으나 총 32번에 달하는 소행성충돌로 인해서 지표면의 모양이 변형되어서 생긴 행성이다. 그러므로 물리적으로 지구와 동일한 조건이므로 존재 가능하다.
+
+3. 그 행성에서 에너지를 얻을 수 있는 방법
+이 행성의 주요 에너지는 소행성 충돌로 인해서 생긴 잔류열을 주로 사용해서 지열발전을 한다. 잦은 충돌이 있기 때문에 생물은 각 지역을 이동해가면서 생존해 왔다. 모항성으로 부터 비교적 멀리 떨어져 있어서  태양복사에너지보다는 지열이 주 에너지원이 된다.
+
+4. 그 행성에서의 달력 만들기
+자전주기는 48시간이라고 가정했다. 모항성으로 부터의 거리가 소행성지대이므로 약 3.35 AU 이다. 따라서 케플러 제 3법칙을 사용하면 공전주기는 6.13년이 된다. 이를 통해서 이 행성에서의 하루를 구하면 1118일 이 된다. 한달이 26개월 이라고 하면 1개월당 43일이 형성되고 8일이 1주일이 된다. 요일의 이름은 순서대로 '수금지화목토천해' 이다.
